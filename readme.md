@@ -59,5 +59,5 @@ AAAAAAAA! | AAAAAAAA! | AAAAAAAA! | AAAAAAAA! | AAAAAAAA! | AAAAAAAA! | AAAAAAAA
 
 
 <p align="center">
-  <img width="150" height="150" src="https://i.redd.it/03lgpwswcm431.gif">
+  <img width="150" height="150" src="https://github.com/impshum/AAAAA/blob/master/aa.gif?raw=true">
 </p>
