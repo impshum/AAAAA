@@ -1,4 +1,4 @@
-![https://github.com/impshum/AAAAA](https://flat.badgen.net/badge/AAAAA/AAAAAAAAAA/green)
+![](https://flat.badgen.net/badge/AAAAA/AAAAAAAAAA/green)
 
 # A A A A A A A A A A A A A A A A
 
