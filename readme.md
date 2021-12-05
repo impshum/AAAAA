@@ -25,41 +25,6 @@ A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
 
 A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
 
-##### A A A A A A A A A A A A A A A
-
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-* A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
-
-
-| AAAAAAAA | AAAAAAAA | AAAAAAAA | AAAAAAAA |
-| - | - | - | - |
-| A | AAAAAAAA | AAAAAAAA | AAAAAAAA |
-| AA | AAAAAAAA | AAAAAAAA | AAAAAAAA |
-| AAAA | AAAAAAAA | AAAAAAAA | AAAAAAAA |
-| AAAA | AAAAAAAA | AAAAAAAA | AAAAAAAA |
-| AAAAA | AAAAAAAA | AAAAAAAA | AAAAAAAA |
-| AAAAAA | AAAAAAAA | AAAAAAAA | AAAAAAAA |
-| AAAAAAA | AAAAAAAA | AAAAAAAA | AAAAAAAA |
-| AAAAAAAA | AAAAAAAA | AAAAAAAA | AAAAAAAA |
-
 <p align="center">
   <img width="150" height="150" src="https://github.com/impshum/AAAAA/blob/master/aa.gif">
 </p>
